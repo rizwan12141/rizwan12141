@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @rizwan12141
-- 👀 I’m interested in Content Writing and Digital Marketing
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me m.rizwan12141@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 🙃
+Muhammad Rizwan 👋
 
-<!---
-rizwan12141/rizwan12141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 **Freelancer | Content Writer | Digital Marketing Enthusiast**
+
+- 👨‍💻 Passionate about content writing, digital marketing, and online growth strategies  
+- 🌱 Currently expanding my knowledge in **Ethical Hacking and cybersecurity**  
+- 🤝 Open to collaborating on content, marketing, and tech-related projects  
+- 📫 Reach me at: **m.rizwan12141@gmail.com**  
+- 🌍 Location: Pakistan  
+- ⚡ Always eager to learn new skills and explore emerging technologies  
+
+---
+
+⭐ *Focused on continuous learning, professional growth, and delivering high-quality work.*
